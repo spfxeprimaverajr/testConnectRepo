@@ -14,7 +14,7 @@ export default class Mytestgit extends React.Component<IMytestgitProps, {}> {
               <p className={styles.subTitle}>Customize SharePoint experiences using Web Parts.</p>
               <p className={styles.description}>{escape(this.props.description)}</p>
               <a href="https://aka.ms/spfx" className={styles.button}>
-                <span className={styles.label}>Test</span>
+                <span className={styles.label}>This is now on Dev Stage</span>
               </a>
             </div>
           </div>
